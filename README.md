@@ -34,6 +34,12 @@ Para executar a aplicação você irá precisar de:
 // para baixar as dependências
 yarn
 
+// para atualizar o banco de dados
+yarn knex:migrate
+
+// para inserir as sementes (logo dos items) no banco de dados
+yarn knex:seed
+
 //para executar a API
 yarn run dev 
 
@@ -44,4 +50,4 @@ yarn run dev
 [![linkedin](https://user-images.githubusercontent.com/54194337/83949361-be529580-a7f9-11ea-8cf6-bd38a1e8192f.png)][1]   [![gmail](https://user-images.githubusercontent.com/54194337/83949316-69168400-a7f9-11ea-9667-074e647a771b.png)][2]
 ---
 [1]: https://www.linkedin.com/in/gabriel-gustavo-4946b7174/
-[2]: https://www.linkedin.com/in/gabriel-gustavo-4946b7174/
+[2]: mailto:gabrielgustavoandrade@gmail.com
